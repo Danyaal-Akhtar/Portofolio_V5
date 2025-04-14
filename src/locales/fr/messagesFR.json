@@ -1,0 +1,26 @@
+{
+  "welcomeScreen": {
+    "bienvenue": "Bienvenue",
+    "sur": "sur",
+    "mon": "mon",
+    "siteDe": "site de",
+    "portfolio": "portfolio"
+  },
+  "navbar": {
+    "accueil": "Accueil",
+    "apropos": "À propos",
+    "portfolio": "Portfolio",
+    "contact": "Contact"
+  },
+  "home": {
+    "developpeur": "Développeur",
+    "fullStack": "Full-Stack",
+    "innover": "Prêt à innover",
+    "etudiant": "Étudiant en 2ème année de BUT Informatique ",
+    "devFullStack": "Développeur Full-Stack",
+    "content": "L'informatique est un champ où la curiosité est plus importante que la connaissance - Tim Berners-Lee"
+  },
+  "apropos": {
+    "apropos": "À propos"
+  }
+}
